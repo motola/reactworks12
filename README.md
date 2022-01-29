@@ -1,2 +1,2 @@
 # reactworks12
-A react project
+A react project, creating a todo app
